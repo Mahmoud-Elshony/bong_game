@@ -1,0 +1,28 @@
+body{
+    background-color: #999;
+    
+}
+.ball{
+    position: relative;
+    height: 10vh;
+    width: 10vh;
+    border-radius: 50%;
+    background-color: red;
+    top:10vh;
+    left:50vh;
+}
+.budle_two{
+    width: 10vh;
+    height: 35vh;
+    background-color: black;
+    position: absolute; 
+    left:5vh
+    
+}
+.budle_one{
+    width: 10vh;
+    height: 35vh;
+    background-color: black;
+    position: absolute;
+    right:5vh
+}
